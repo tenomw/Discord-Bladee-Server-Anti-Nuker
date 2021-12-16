@@ -1,7 +1,7 @@
 /**
  * Bladee Anti Nuke: Global Mode
- * https://github.com/17teen
- * Discord: 7teen#3868
+ * https://github.com/tenomw
+ * Discord: OG tenom#0123
  */
 
 // API & Packages
@@ -55,7 +55,7 @@ console.log(magenta(`
                             ██████╔╝███████╗██║  ██║██████╔╝███████╗███████╗██╗
                             ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝
                        
-                               Anti Nuke | 7teen | Author: ${author}
+                               Anti Nuke | tenom | Author: ${author}
 
 `));
 
